@@ -1,5 +1,7 @@
 # AtlasMacro
 
+(Official website) https://atlaslap.com
+
 Advanced real-time mouse & keyboard macro tool for gamers and power-users.  
 Raw input recording, flexible playback modes, profiles and editable mouse paths.  
 Runs locally · No telemetry.

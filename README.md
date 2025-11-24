@@ -25,7 +25,6 @@ Unlike simple “macro recorders”, AtlasMacro focuses on **raw input, profiles
 
 ---
 
-# Key features
 
 # Recording & live feedback
 
@@ -53,6 +52,8 @@ Unlike simple “macro recorders”, AtlasMacro focuses on **raw input, profiles
 - Each profile can load its own `.amc` macro file from the AtlasMacro data folder.
 - Profile configuration can be saved/loaded as `.apf` files for easy backup and sharing.
 
+<img width="458" height="427" alt="C" src="https://github.com/user-attachments/assets/1ba81fb2-ec3b-423d-a38b-30debf65eb32" />
+
 # Advanced path editing
 
 - Built-in **mouse path editor** window:
@@ -68,6 +69,8 @@ Unlike simple “macro recorders”, AtlasMacro focuses on **raw input, profiles
   - Recording status (**REC / NO REC**),
   - Playback status (**PLAY / NO PLAY**).
 - Designed to sit on a second monitor or on top of a game for quick status feedback without opening the full UI.
+
+<img width="725" height="547" alt="B" src="https://github.com/user-attachments/assets/90327927-4b89-4971-b790-8919a8c8949e" />
 
 # Hotkeys & hold logic
 

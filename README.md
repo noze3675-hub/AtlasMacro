@@ -9,7 +9,7 @@ Runs locally · No telemetry.
 
 ---
 
-## 🎯 What is AtlasMacro?
+# What is AtlasMacro?
 
 **AtlasMacro** is a Windows desktop app that records raw mouse and keyboard input and replays it with high precision.
 
@@ -22,15 +22,15 @@ Unlike simple “macro recorders”, AtlasMacro focuses on **raw input, profiles
 
 ---
 
-## ✨ Key features
+# Key features
 
-### 🔴 Recording & live feedback
+# Recording & live feedback
 
 - Records **raw mouse** and **keyboard** input with millisecond timing.
 - Real-time delta display so you can see movement while recording.
 - Macro log view that groups moves and clicks into readable lines instead of a raw spam of events.
 
-### 🎮 Playback & control
+# Playback & control
 
 - **Play modes**:  
   - **Once** – play macro a single time.  
@@ -43,21 +43,21 @@ Unlike simple “macro recorders”, AtlasMacro focuses on **raw input, profiles
 - Global speed control with scaling for delays, tuned for smooth and natural feeling playback.
 - Smoothing options for tiny delays and interpolation steps to avoid “teleport” mouse movement.
 
-### 🧩 Profiles & workflow
+# Profiles & workflow
 
 - Up to **10 profiles** with per-profile macro files, names and hotkeys.
 - Quick **profile switching** via hotkeys (Prev/Next) – ideal for multi-weapon or multi-setup games.
 - Each profile can load its own `.amc` macro file from the AtlasMacro data folder.
 - Profile configuration can be saved/loaded as `.apf` files for easy backup and sharing.
 
-### 🧠 Advanced path editing
+# Advanced path editing
 
 - Built-in **mouse path editor** window:
   - Visualizes the recorded trajectory.
   - Allows you to smooth or adjust points before committing changes.
 - Edited paths are written back into the macro so you can refine one recording instead of re-recording over and over.
 
-### 👁 “Eye” overlay window
+# “Eye” overlay window
 
 - Optional compact **Eye** window that shows at a glance:
   - Active profile name (P1–P10),
@@ -66,7 +66,7 @@ Unlike simple “macro recorders”, AtlasMacro focuses on **raw input, profiles
   - Playback status (**PLAY / NO PLAY**).
 - Designed to sit on a second monitor or on top of a game for quick status feedback without opening the full UI.
 
-### 🎹 Hotkeys & hold logic
+# Hotkeys & hold logic
 
 - Separate hotkeys for:
   - **Record**
@@ -76,13 +76,13 @@ Unlike simple “macro recorders”, AtlasMacro focuses on **raw input, profiles
 - Hold binding can invert features while a key is held (for example, temporarily disabling macros while a key is pressed).
 - Hotkey fields are captured directly from the keyboard so you don’t have to remember key codes.
 
-### 🧱 Stability & safety
+# tability & safety
 
 - All macro data is stored under `C:\AtlasMacro` in clearly separated folders (Data, Profile_Save, etc.).
 - Profiles and macro files are simple text/binary formats designed for reliability.
 - Focus on predictable behavior — no hidden automation outside what you configure.
 
-### 🔑 Licensing
+# Licensing
 
 AtlasMacro is a **commercial (Pro) tool**.  
 The app includes a small activation window where you enter your license key. The license is verified online and then stored locally on your machine.
@@ -92,7 +92,7 @@ The app includes a small activation window where you enter your license key. The
 
 ---
 
-## 💻 System requirements
+# System requirements
 
 - **OS:** Windows 10 or Windows 11 (64-bit)
 - **Input:** Standard mouse & keyboard (raw input capable)
@@ -101,18 +101,17 @@ The app includes a small activation window where you enter your license key. The
 
 ---
 
-## 📥 Download
+# Download
 
 The installer and latest builds are available on the official website:
 
-👉 **AtlasMacro page:** https://atlaslap.com/atlasmacro  
-👉 **Main site:** https://atlaslap.com
+**Main site:** https://atlaslap.com
 
 All downloads, updates and pricing are managed from the website, not from GitHub.
 
 ---
 
-## ❓ FAQ (short)
+# FAQ (short)
 
 **Is this a cheat / injector?**  
 No. AtlasMacro does not inject into games or modify game memory.  
@@ -132,5 +131,6 @@ If you have questions, bug reports or feature requests:
 
 - Open a GitHub **Issue** in this repository, or  
 - Use the support / contact options on the website.
+- sopport@atlaslap.com
 
 AtlasMacro is built and maintained by a single developer — thoughtful feedback is highly appreciated.

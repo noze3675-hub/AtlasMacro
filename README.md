@@ -63,6 +63,8 @@ Unlike simple “macro recorders”, AtlasMacro focuses on **raw input, profiles
   - Allows you to smooth or adjust points before committing changes.
 - Edited paths are written back into the macro so you can refine one recording instead of re-recording over and over.
 
+<img width="725" height="547" alt="B" src="https://github.com/user-attachments/assets/90327927-4b89-4971-b790-8919a8c8949e" />
+
 # “Eye” overlay window
 
 - Optional compact **Eye** window that shows at a glance:
@@ -71,8 +73,6 @@ Unlike simple “macro recorders”, AtlasMacro focuses on **raw input, profiles
   - Recording status (**REC / NO REC**),
   - Playback status (**PLAY / NO PLAY**).
 - Designed to sit on a second monitor or on top of a game for quick status feedback without opening the full UI.
-
-<img width="725" height="547" alt="B" src="https://github.com/user-attachments/assets/90327927-4b89-4971-b790-8919a8c8949e" />
 
 # Hotkeys & hold logic
 

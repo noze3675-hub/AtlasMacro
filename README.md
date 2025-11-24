@@ -133,7 +133,7 @@ No. Macros and configuration data are stored locally under `C:\AtlasMacro`. Tele
 
 ---
 
-## 🛠 Support & feedback
+# Support & feedback
 
 If you have questions, bug reports or feature requests:
 

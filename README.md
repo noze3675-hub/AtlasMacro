@@ -4,6 +4,9 @@ Advanced real-time mouse & keyboard macro tool for gamers and power-users.
 Raw input recording, flexible playback modes, profiles and editable mouse paths.  
 Runs locally · No telemetry.
 
+<img width="722" height="437" alt="A" src="https://github.com/user-attachments/assets/6ef4990a-0be6-436a-9f77-75e4ece30726" />
+
+
 > This repository is for documentation, changelogs and issue tracking.  
 > The **source code is private** and is **not** published on GitHub.
 
